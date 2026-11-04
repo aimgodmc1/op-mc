@@ -1,0 +1,15 @@
+{
+  "name": "aimmu-bot",
+  "version": "1.0.0",
+  "description": "BM Ultimate Telegram Bot - aimmu.js",
+  "main": "aimmu.js",
+  "scripts": {
+    "start": "node aimmu.js"
+  },
+  "dependencies": {
+    "gtts": "^0.2.1",
+    "node-telegram-bot-api": "^0.64.0"
+  },
+  "author": "BM",
+  "license": "ISC"
+}
